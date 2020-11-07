@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+body {
+    background-image: url('images/63198.jpg');
+    background-color: skyblue;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Indie Flower', sans-serif;
+  }
+
+  h1 {
+    font-size: 100px;
+    margin: 0;
+  }
+
+  .letter {
+    background-color: #cbaf87;
+    background-size: cover;
+    font-size: 100px;
+    font-family: 'Secular One', sans-serif;
+    margin: 5px;
+    text-shadow: 4px 4px black;
+    transition: all 0.5s ease-in;
+  }
+
+  .letter:hover {
+    opacity: 0.8;
+    transform: scale(0.98);
+  }
+
+  .color1 {
+    color: Blue;
+    border: 15px outset blue;
+    padding: 0;
+  }
+  
+  .color2 {
+    color: red;
+    border: 15px outset red;
+    padding: 0;
+  }
+  
+  .color3 {
+    color: green;
+    border: 15px outset green;
+    padding: 0;
+  }
+  
+  .color4 {
+    color: orange;
+    border: 15px outset orange;
+    padding: 0;
+  }
+  
+  .color5 {
+    color: purple;
+    border: 15px outset purple;
+    padding: 0;
+  }
+  
+  .color6 {
+    color: pink;
+    border: 15px outset pink;
+    padding: 0;
+  }
+  
